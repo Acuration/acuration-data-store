@@ -1,29 +1,61 @@
-[
-{ "company": "Schneider Electric", "description": "French multinational corporation specializing in energy management and automation", "stockPrice": 144.66 },
-{ "company": "ABB", "description": "Swedish-Swiss multinational corporation specializing in robotics, power grids, heavy electrical equipment, and automation", "stockPrice": 39.34 },
-{ "company": "Siemens", "description": "German multinational conglomerate company specializing in electronics and electrical engineering", "stockPrice": 117.40 },
-{ "company": "Bosch", "description": "German multinational engineering and technology company", "stockPrice": 168.30 },
-{ "company": "Honeywell", "description": "American diversified multinational conglomerate corporation that produces a wide range of commercial and consumer products", "stockPrice": 224.78 },
-{ "company": "Johnson Controls", "description": "Irish-American multinational corporation specializing in building technology and climate solutions", "stockPrice": 57.78 },
-{ "company": "Carrier", "description": "American multinational heating, ventilating, and air conditioning (HVAC) manufacturing company", "stockPrice": 58.35 },
-{ "company": "Trane", "description": "Irish-American multinational company that provides heating, ventilation, and air conditioning (HVAC) systems, parts, and services", "stockPrice": 43.22 },
-{ "company": "Mitsubishi Heavy Industries", "description": "Japanese multinational engineering and manufacturing company", "stockPrice": 1,359 },
-{ "company": "York International", "description": "American multinational corporation that manufactures and markets air conditioning, heating, and refrigeration products", "stockPrice": 27.14 },
-{ "company": "Lennox International", "description": "American multinational company that manufactures and markets heating, ventilation, and air conditioning (HVAC) products", "stockPrice": 224.78 },
-{ "company": "Daikin", "description": "Japanese multinational company specializing in air conditioning, heating, ventilation, refrigeration, and other products", "stockPrice": 4,112 },
-{ "company": "Ingersoll-Rand", "description": "American diversified industrial manufacturer of climate control products, industrial equipment, and security technologies", "stockPrice": 47.92 },
-{ "company": "United Technologies", "description": "American multinational corporation that provides products and services to the aerospace, building and construction, and commercial systems industries", "stockPrice": 168.30 },
-{ "company": "Emerson Electric", "description": "American multinational corporation that manufactures and sells products and services for a variety of markets, including industrial, commercial, and consumer", "stockPrice": 102.98 },
-{ "company": "Johnson Matthey", "description": "British multinational specialty chemicals company", "stockPrice": 2,974 },
-{ "company": "Spirax-Sarco", "description": "British multinational engineering company specializing in steam control and fluid management", "stockPrice": 13,240 },
-{ "company": "Alfa Laval", "description": "Swedish multinational industrial equipment company providing solutions based on heat transfer, separation and fluid handling", "stockPrice": 13,240 },
-{ "company": "Danfoss", "description": "Danish multinational manufacturing company that specializes in refrigeration and air conditioning components", "stockPrice": 39.34 },
-{ "company": "Grundfos", "description": "Danish multinational pump manufacturer", "stockPrice": 13,240 },
-{ "company": "Wilo SE", "description": "German multinational manufacturer of pumps and pump systems", "stockPrice": 13,240 },
-{ "company": "Xylem", "description": "American multinational water technology company", "stockPrice": 89.78 },
-{ "company": "Flowserve", "description": "American multinational company that specializes in pumps, flow control products, and other engineered products", "stockPrice": 40.94 },
-{ "company": "Pentair", "description": "American multinational diversified industrial manufacturing company", "stockPrice": 60.98 },
-{ "company": "KSB", "description": "German multinational manufacturer of pumps and valves", "stockPrice": 13,240 },
-{ "company": "Sulzer", "description": "Swiss multinational pump and turbine manufacturer", "stockPrice": 2,132 },
-{ "company": "CIRCOR International", "description": "American multinational manufacturer of flow control products and related services", "stockPrice": 42.1 },
-]
+[{
+  "company": "Octopus Energy",
+  "description": "Octopus Energy is a British energy supplier that provides renewable electricity and gas to consumers.",
+  "stockPrice": 2.34,
+  "website": "https://octopus.energy/"
+}, {
+  "company": "Bulb Energy",
+  "description": "Bulb Energy is a British energy supplier that is known for its low prices and its focus on green energy.",
+  "stockPrice": 1.98,
+  "website": "https://www.bulb.co.uk/"
+}, {
+  "company": "Hive Energy",
+  "description": "Hive Energy is a British energy supplier that specializes in smart home energy solutions.",
+  "stockPrice": 1.65,
+  "website": "https://www.hivehome.com/"
+}, {
+  "company": "OVO Energy",
+  "description": "OVO Energy is a British energy supplier that is committed to providing clean energy to its customers.",
+  "stockPrice": 2.14,
+  "website": "https://www.ovoenergy.com/"
+}, {
+  "company": "SSE",
+  "description": "SSE is a British energy company that operates a portfolio of power plants, gas storage facilities, and electricity networks.",
+  "stockPrice": 1.82,
+  "website": "https://www.sse.com/"
+}, {
+  "company": "E.ON",
+  "description": "E.ON is a German energy company that is one of the largest energy providers in Europe.",
+  "stockPrice": 9.34,
+  "website": "https://www.eonenergy.com/"
+}, {
+  "company": "EDF Energy",
+  "description": "EDF Energy is a British energy company that is the largest generator of electricity in the UK.",
+  "stockPrice": 1.48,
+  "website": "https://www.edfenergy.com/"
+}, {
+  "company": "Scottish Power",
+  "description": "Scottish Power is a British energy company that is one of the largest providers of electricity and gas in Scotland.",
+  "stockPrice": 1.25,
+  "website": "https://www.scottishpower.co.uk/"
+}, {
+  "company": "NPower",
+  "description": "NPower is a British energy company that is the third largest generator of electricity in the UK.",
+  "stockPrice": 1.14,
+  "website": "https://www.npower.com/"
+}, {
+  "company": "Utilita Energy",
+  "description": "Utilita Energy is a British energy supplier that is known for its low prices and its focus on customer service.",
+  "stockPrice": 1.54,
+  "website": "https://www.utilita.energy/"
+}, {
+  "company": "Drax",
+  "description": "Drax is a British energy company that is one of the largest generators of electricity from renewable sources in the UK.",
+  "stockPrice": 2.48,
+  "website": "https://www.drax.com/"
+}, {
+  "company": "Centrica",
+  "description": "Centrica is a British energy company that is one of the largest providers of energy in the UK.",
+  "stockPrice": 1.34,
+  "website": "https://www.centricaplc.com/"
+}]
