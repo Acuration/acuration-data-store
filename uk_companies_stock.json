@@ -4,11 +4,6 @@
   "stockPrice": 2.34,
   "website": "https://octopus.energy/"
 }, {
-  "company": "Bulb Energy",
-  "description": "Bulb Energy is a British energy supplier that is known for its low prices and its focus on green energy.",
-  "stockPrice": 1.98,
-  "website": "https://www.bulb.co.uk/"
-}, {
   "company": "Hive Energy",
   "description": "Hive Energy is a British energy supplier that specializes in smart home energy solutions.",
   "stockPrice": 1.65,
