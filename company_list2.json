@@ -1,0 +1,33 @@
+{
+  "climateTechCompaniesUK": [
+    {"name": "Sylvera", "website": "https://www.sylvera.com"},
+    {"name": "Field", "website": "https://www.field.energy"},
+    {"name": "ev.energy", "website": "https://www.ev.energy"},
+    {"name": "Tandem", "website": "https://www.tandem.co.uk"},
+    {"name": "Isometric", "website": "https://www.isometric.com"},
+    {"name": "Supercritical", "website": "https://www.gosupercritical.com"},
+    {"name": "Carbonplace", "website": "https://www.carbonplace.com"},
+    {"name": "Opna", "website": "https://www.saltglobal.io"},
+    {"name": "Myenergi", "website": "https://www.myenergi.com"},
+    {"name": "Motorway", "website": "https://www.motorway.co.uk"},
+    {"name": "Recycleye", "website": "https://www.recycleye.com"},
+    {"name": "CUR8", "website": "https://www.cur8.earth"},
+    {"name": "Revalue Nature", "website": "https://www.revalue.earth"},
+    {"name": "FlexSea", "website": "https://www.flex-sea.com"},
+    {"name": "Connect Earth", "website": "https://www.connect.earth"},
+    {"name": "HumanForest", "website": "https://www.humanforest.co.uk"},
+    {"name": "Piclo", "website": "https://www.piclo.energy"},
+    {"name": "Wefarm", "website": "https://www.wefarm.com"},
+    {"name": "Entocycle", "website": "https://www.entocycle.com"},
+    {"name": "Omnevue", "website": "https://www.omnevue.com"},
+    {"name": "Treefera", "website": "https://www.treefera.com"},
+    {"name": "Electron", "website": "https://www.electron.net"},
+    {"name": "Renew Risk", "website": "https://www.renew-risk.com"},
+    {"name": "Onto", "website": "https://www.on.to"},
+    {"name": "Altruistiq", "website": "https://www.altruistiq.com"},
+    {"name": "Brilliant Planet", "website": "https://www.brilliantplanet.com"},
+    {"name": "Clim8 Invest", "website": "https://www.clim8invest.com"},
+    {"name": "Concirrus", "website": "https://www.concirrus.com"},
+    {"name": "Greyparrot", "website": "https://www.greyparrot.ai"}
+  ]
+}
